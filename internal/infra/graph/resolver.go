@@ -8,4 +8,5 @@ import "github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/usecase"
 
 type Resolver struct {
 	CreateOrderUseCase usecase.CreateOrderUseCase
+	ListOrdersUseCase  usecase.ListOrdersUseCase
 }
