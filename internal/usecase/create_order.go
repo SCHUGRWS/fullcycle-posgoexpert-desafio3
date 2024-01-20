@@ -1,8 +1,8 @@
 package usecase
 
 import (
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/entity"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/pkg/events"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/entity"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/pkg/events"
 )
 
 type OrderInputDTO struct {

@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/infra/grpc/pb"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/usecase"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/infra/grpc/pb"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/usecase"
 )
 
 type OrderService struct {

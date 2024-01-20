@@ -1,4 +1,4 @@
-module github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2
+module github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3
 
 go 1.21.5
 

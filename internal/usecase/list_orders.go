@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/entity"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/entity"
 )
 
 type ListOrdersOutputDTO struct {

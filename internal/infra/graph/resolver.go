@@ -1,6 +1,6 @@
 package graph
 
-import "github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/usecase"
+import "github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/usecase"
 
 // This file will not be regenerated automatically.
 //

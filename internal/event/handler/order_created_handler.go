@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/pkg/events"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/pkg/events"
 	"github.com/streadway/amqp"
 )
 

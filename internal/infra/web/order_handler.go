@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/entity"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/usecase"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/pkg/events"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/entity"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/usecase"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/pkg/events"
 )
 
 type WebOrderHandler struct {

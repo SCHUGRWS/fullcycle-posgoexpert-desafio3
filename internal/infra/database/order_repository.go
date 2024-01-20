@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/entity"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/entity"
 )
 
 type OrderRepository struct {

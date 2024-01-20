@@ -8,12 +8,12 @@ package main
 
 import (
 	"database/sql"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/entity"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/event"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/infra/database"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/infra/web"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/usecase"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/pkg/events"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/entity"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/event"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/infra/database"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/infra/web"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/usecase"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/pkg/events"
 	"github.com/google/wire"
 )
 

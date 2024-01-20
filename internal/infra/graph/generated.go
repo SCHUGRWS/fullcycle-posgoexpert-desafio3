@@ -14,7 +14,7 @@ import (
 
 	"github.com/99designs/gqlgen/graphql"
 	"github.com/99designs/gqlgen/graphql/introspection"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/infra/graph/model"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/infra/graph/model"
 	gqlparser "github.com/vektah/gqlparser/v2"
 	"github.com/vektah/gqlparser/v2/ast"
 )

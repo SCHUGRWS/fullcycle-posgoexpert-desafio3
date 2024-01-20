@@ -6,8 +6,8 @@ package graph
 
 import (
 	"context"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/infra/graph/model"
-	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio2/internal/usecase"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/infra/graph/model"
+	"github.com/SCHUGRWS/fullcycle-posgoexpert-desafio3/internal/usecase"
 )
 
 // CreateOrder is the resolver for the createOrder field.
